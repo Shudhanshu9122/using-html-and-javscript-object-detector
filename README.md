@@ -2,6 +2,6 @@
 
 # Features:
 ✅ Detects multiple objects in real-time.
-✅ Uses JavaScript and TensorFlow.js (or another model).
+✅ Uses JavaScript and TensorFlow.js.
 ✅ Works directly in the browser – no need for installations.
 ✅ Supports webcam and image uploads.
